@@ -1,0 +1,20 @@
+Hello there!
+
+RedisConsole is GUI tool to view Redis databases.
+
+Features:
+
+    - connection dialog (you can choose host, port, DB number, key prefix)
+    - key list and values area
+    - quick key filter
+    - full-functional Redis console
+    - console mode (F4)
+    - quick context help on Redis commands
+
+Current version: 0.5
+
+Updates: http://ptrofimov.wordpress.com/2011/06/19/redisconsole-windows-gui-tool-to-view-redis-databases/
+
+Enjoy.
+
+© 2011 Petr Trofimov (petrofimov@yandex.ru)

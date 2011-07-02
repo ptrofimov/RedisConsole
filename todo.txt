@@ -1,0 +1,8 @@
++ select database when connect
++ context help for console
++ add about text (welcome)
+
+
+- unicode for values field
+- unicode for console (input,output)
+- benchmark (dialog)

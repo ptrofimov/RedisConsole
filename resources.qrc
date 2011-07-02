@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/terminal.png</file>
+        <file>icons/key.png</file>
+        <file>commands.txt</file>
+        <file>about.txt</file>
+    </qresource>
+</RCC>
